@@ -22,7 +22,9 @@
         <Button
             android:id="@+id/btn"
             android:text="登录"
+            android:background="@drawable/bg_bt_selector"
             android:layout_width="wrap_content"
+            android:clickable="false"
             android:layout_height="wrap_content" />
 
     </LinearLayout>
