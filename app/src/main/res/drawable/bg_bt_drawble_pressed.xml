@@ -5,7 +5,7 @@
     <stroke
         android:color="@color/colorAccent"
         android:width="2dp"/>
-    <gradient
-        android:centerColor="@color/colorPrimaryDark"
-        android:endColor="@color/colorPrimary"/>
+
+    <solid android:color="@color/colorAccent"/>
+
 </shape>
